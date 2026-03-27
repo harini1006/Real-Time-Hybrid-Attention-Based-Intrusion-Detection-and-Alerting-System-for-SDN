@@ -129,12 +129,16 @@ Timestamp
 4.Real-Time Threat Detection
 ## 🔮 Future Enhancements
 1.Database integration (MongoDB/PostgreSQL)
+
 2.Docker deployment
+
 3.Cloud deployment (AWS/GCP)
+
 4.Deep Learning (LSTM/Transformer upgrade)
 
 ## 👩‍💻 Author
 Harini V
+
 B.Tech Artificial Intelligence & Data Science
 
 
