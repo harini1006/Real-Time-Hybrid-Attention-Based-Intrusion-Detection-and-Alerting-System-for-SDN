@@ -1,0 +1,11 @@
+torch
+fastapi
+uvicorn[standard]
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+aiofiles
+pandas
+scikit-learn
+numpy
+joblib
